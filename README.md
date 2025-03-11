@@ -95,14 +95,15 @@ Me chamo Sara Gongora, tenho 23 anos e sou de Sorocaba - SP.  Atualmente, estou 
 <p align="center">
   <img 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     src="https://github-readme-stats.vercel.app/api?username=saragongora&show_icons=true&theme=radical&locale=pt-br" 
   />
   
   <img 
     alt="Linguagens mais usadas" 
-    height="200" 
+    height="150" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=saragongora&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
 
